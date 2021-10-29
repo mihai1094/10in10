@@ -1,3 +1,5 @@
+#idea is "stolen" from florinpop17. I highly recommand to take a look at his awesome content to all of you
+
 1. Countdown Timer
 
 - Design: https://uidesigndaily.com/posts/sketch-countdown-timer-day-876
